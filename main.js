@@ -3,7 +3,7 @@
  template.innerHTML = `
  <style>
  </style>
- <div id="root" style="width: 100%; height: 100%;">
+ <div id="com.sap.sac.exercise.jwl" style="width: 100%; height: 100%;">
  Hello WebComponent
  </div>
  `
